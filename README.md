@@ -15,9 +15,9 @@ gem install bundle (if you don't have bundler installed)
 bundle install
 ```
 
-Start the server with rake:
+Start the rack serer:
 
-`bundle exec rake server`
+`bundle exec rackup`
 
 Thats it!
 
