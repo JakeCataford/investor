@@ -10,9 +10,10 @@ Clone the repo:
 `cd investor`
 
 Install Dependencies with Bundler:
-
-`gem install (if you don't have bundler installed)`
-`bundle install`
+```
+gem install bundle (if you don't have bundler installed)
+bundle install
+```
 
 Start the server with rake:
 
